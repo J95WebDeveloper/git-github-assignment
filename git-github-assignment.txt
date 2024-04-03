@@ -1,0 +1,49 @@
+﻿
+
+      Git and Github Assignment
+
+
+      1. How to check if git is available on your system?
+      Ans -  git –version
+
+
+
+      2. How to initialize a new Git repository?
+      Ans -  git init
+
+
+
+      3. How to tell git about your name and email?
+      Ans -  Name :  git config –global user.name
+             Email :   git config –global user.email
+
+
+ 
+      4. How to add a file to the stagging area?
+      Ans -  git add <file name>
+
+
+
+      5. How to remove a file from the stagging area?
+      Ans -  git reset <filename>
+
+
+
+      6. How to make a commit?
+      Ans -  git commit -m “commit message”
+
+
+
+      7. How to send your changes to a remote repository?
+      Ans -  git push -u remote-name branch-name
+
+
+
+      8. What is the difference between clone and pull?
+      Ans -  Clone :  it is copies all files to the local machine.
+             Pull :  it is only copies the modified files to the local machine.
+
+
+
+
+
